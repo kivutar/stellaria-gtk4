@@ -1,0 +1,6 @@
+data/me.kivutar.Stellaria.desktop.in
+data/me.kivutar.Stellaria.appdata.xml.in
+data/me.kivutar.Stellaria.gschema.xml
+src/main.c
+src/stellaria-window.c
+src/stellaria-window.ui

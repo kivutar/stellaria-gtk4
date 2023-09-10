@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Stellaria
+Exec=stellaria
+Icon=me.kivutar.Stellaria
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
